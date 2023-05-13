@@ -1,0 +1,71 @@
+.main-flex{
+ margin-left:35em;
+ margin-right:35em;
+ margin-top:6em;
+ background-color:white;
+
+}
+
+h1{
+    font-size:1.6rem;
+    text-align:center;
+    font-family: 'Roboto', sans-serif;
+    word-spacing:0.3rem;
+
+}
+
+p{
+    text-align:center;
+    font-family: 'Open Sans', sans-serif;
+    color:#837d7d;
+    font-size:0.8rem;
+    font-weight:600;
+
+}
+
+.butt-email{
+    text-align:center;
+
+}
+
+button{
+    padding-left:7em;
+    padding-right:7em;
+    padding-top:0.5em;
+    padding-bottom:0.5em;
+    background-color:#4E31AA;
+    border-color:#4E31AA;
+    color:#F6F1F1;
+
+}
+
+button:hover{
+    cursor:pointer;
+}
+
+h2{
+    font-size:0.7rem;
+    text-align:center;
+    font-family: 'Open Sans', sans-serif;
+    color:#837d7d;
+
+}
+
+h3{
+    font-size:0.6rem;
+    text-align:center; 
+    font-family: 'Open Sans', sans-serif;
+    color:#837d7d;
+
+}
+
+.meg-2{
+    display:flex;
+    justify-content:baseline;
+    color:#837d7d;
+    margin-left:11em;
+
+}
+
+
+

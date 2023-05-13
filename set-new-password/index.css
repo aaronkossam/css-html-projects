@@ -1,0 +1,96 @@
+body{
+    margin-left:40em;
+    margin-right:40em;
+    margin-top:10em;
+}
+
+h1{
+    text-align:center;
+    font-family: 'Roboto', sans-serif;
+margin-left:-1em;
+}
+
+.meg-1{
+    text-align:center;
+    font-family: 'Open Sans', sans-serif;
+    margin-left:-2em;
+    margin-bottom:2em;
+    color:#837d7d;
+
+}
+
+.password{
+    padding-left:4.5em;
+    padding-right:4.5em;
+padding-bottom:0.7em;
+padding-top:0.7em;
+outline:none;
+}
+
+.con-password{
+ padding-left:4.5em;
+    padding-right:4.5em;
+padding-bottom:0.7em;
+padding-top:0.7em; 
+outline:none;
+
+}
+
+.butt{
+    line-height:4rem;
+}
+
+button{
+    padding-left:7.3em;
+    padding-right:7.3em;
+    padding-bottom:0.5em;
+padding-top:0.5em; 
+background-color:#4E31AA;
+border-color:#4E31AA;
+color:#F6F1F1;
+
+}
+
+.meg-password{
+    line-height:0.1rem;
+    font-family: 'Open Sans', sans-serif;
+font-size:0.9rem;
+font-weight:600;
+}
+
+.confirm-password{
+    line-height:0.1rem;
+    font-family: 'Open Sans', sans-serif;
+    font-size:0.9rem;
+    font-weight:600;
+
+}
+
+.lin{
+    font-size:0.6rem;
+    font-family: 'Open Sans', sans-serif;
+    color:#837d7d;
+
+}
+
+
+.butt{
+    margin-top:0.8em;
+   
+}
+
+.meg-but{
+    text-align:center;
+    display:flex;
+    justify-content:center;
+font-size:0.90rem;
+margin-top:-0.2em;
+margin-left:-2em;
+color:#837d7d;
+
+}
+
+   
+    .icon{
+        margin-left:8.5em;
+    }
